@@ -80,5 +80,3 @@ const DEBUG_MODE = true;
 
 MIT License  
 本 README の記載内容に従い、改変・再利用は自由に行っていただいて構いません。
-
-```
